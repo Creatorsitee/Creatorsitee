@@ -1,333 +1,592 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,18,24&height=300&section=header&text=Oji+Saputra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=API%20Developer%20|%20Backend%20Engineer&descAlignY=52&descAlign=60&descSize=20&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Header Banner"/>
-</div>
+# 👋 Halo, I'm Creatorsitee
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=CREATORSITEE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=58&descSize=20&descAlign=50" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://api.cmnty.eu.cc">
-    <img src="https://img.shields.io/badge/🌐_API_Endpoint-api.cmnty.eu.cc-8B5CF6?style=for-the-badge&logo=swagger&logoColor=white&labelColor=6366F1" alt="API Endpoint"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Creatorsitee">
-    <img src="https://github.com/Creatorsitee.png" width="170" height="170" style="border-radius:50%; border: 4px solid #8b5cf6; box-shadow: 0 0 30px rgba(139,92,246,0.6), 0 0 60px rgba(99,102,241,0.3);" alt="Oji Saputra"/>
+    <img src="https://img.shields.io/github/followers/Creatorsitee?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github" />
   </a>
-  
-  <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="vertical-align: middle;"/>
-    <span style="background: linear-gradient(120deg, #8b5cf6, #ec4899, #6366f1, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 300% 300%; animation: gradient 5s ease infinite;">
-      Oji Saputra
-    </span>
-  </h1>
-  
-  <h3 style="color: #8b5cf6;">
-    🔧 Developer of <a href="https://api.cmnty.eu.cc" style="color: #6366f1;">api.cmnty.eu.cc</a>
-  </h3>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%9A%80+API+Developer+%40+api.cmnty.eu.cc;%E2%9A%A1+Backend+Engineer;%F0%9F%94%A7+RESTful+API+Specialist;%F0%9F%8F%97%EF%B8%8F+Microservices+Architect;%F0%9F%92%A1+System+Design+Enthusiast" alt="Typing SVG"/>
-  </p>
-</div>
+  <a href="https://github.com/Creatorsitee?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Creatorsitee?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1b27&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Creatorsitee&style=for-the-badge&color=FF69B4&label=Profile+Views" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored Divider"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=Creatorsitee&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Views"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/github/followers/Creatorsitee?label=Followers&style=flat-square&color=6366f1" alt="Followers"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/github/stars/Creatorsitee?label=Stars&style=flat-square&color=3b82f6" alt="Stars"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/API%20Status-Live-success?style=flat-square" alt="API Status"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Creatorsitee">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+digital+products.;Developing+web+applications+%26+APIs.;Exploring+modern+technology.;Turning+ideas+into+real+projects.;Always+learning%2C+always+building." />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:cmnty.bot@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+</p>
+
+<p align="center">
+  <strong>Build. Create. Improve.</strong><br>
+  <sub>Making useful things with clean code and thoughtful design.</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+</p>
+
+Halo! Saya **Creatorsitee**, seorang developer yang suka membuat berbagai macam **website, API, tools, automation, dan digital projects**.
+
+Saya lebih suka membuat sesuatu yang benar-benar bisa digunakan daripada sekadar membuat demo.
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  Developer      → Web • API • Tools                  │
+│  Builder        → Digital Products                   │
+│  Explorer       → Modern Technologies                │
+│  Creator        → Ideas → Real Projects              │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+### 🎯 Fokus Saya
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_Web_Development-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔌_API_Development-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_Backend_&_Automation-00C9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_&_Infrastructure-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️_Developer_Tools-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦_Open_Source-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨_Clean_UI-9B59B6?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="80" />
+</p>
+
+Membangun website yang responsive, modern, lightweight, dan nyaman digunakan.
+
+`Frontend` `Backend` `Full Stack`
+
+</td>
+
+<td width="50%">
+
+### 🔌 API Development
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
+</p>
+
+Membuat REST API dan sistem backend yang sederhana, scalable, dan mudah digunakan.
+
+`REST API` `Backend` `Integration`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Automation
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
+</p>
+
+Mengembangkan tools untuk mengurangi pekerjaan manual dan membuat workflow lebih efisien.
+
+`Automation` `Scripts` `Tools`
+
+</td>
+
+<td width="50%">
+
+### ☁️ Infrastructure
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+</p>
+
+Eksplorasi deployment, DNS, hosting, cloud services, dan server infrastructure.
+
+`Cloud` `Linux` `DevOps`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300" />
+</p>
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css&theme=dark" />
+</p>
+
+### ⚡ Frameworks & Runtime
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind&theme=dark" />
+</p>
+
+### 🗄️ Database & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,linux&theme=dark" />
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,npm,bash&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🔌 CMNTY API
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+</p>
+
+Platform API untuk mengintegrasikan berbagai API dan menyediakan endpoint yang lebih sederhana untuk developer.
+
+**✨ Features**
+
+- 🔗 API aggregation
+- 🌐 REST endpoint
+- 🔌 API integration
+- ⚡ Lightweight architecture
+- 👨‍💻 Developer friendly
+
+**🛠️ Stack**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://YOUR-CMNTY-API-DEMO.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://api.cmnty.eu.cc">
-    <img src="https://img.shields.io/badge/API_Docs-8B5CF6?style=for-the-badge&logo=swagger&logoColor=white" alt="API Docs"/>
+  <a href="https://github.com/Creatorsitee/YOUR-CMNTY-API-REPO">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://api.cmnty.eu.cc/docs">
-    <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
+</p>
+
+---
+
+## ☁️ CMNTY Hosting
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+</p>
+
+Konsep web hosting untuk deployment project dengan custom subdomain.
+
+**✨ Features**
+
+- 🚀 Project deployment
+- 🌐 Custom subdomain
+- 🔄 DNS automation
+- ☁️ Cloudflare integration
+- ⚡ Lightweight infrastructure
+
+**🛠️ Stack**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_API-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  <a href="https://YOUR-CMNTY-HOSTING-DEMO.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/Creatorsitee/YOUR-CMNTY-HOSTING-REPO">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</div>
+## 🛠️ Developer Tools
 
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+</p>
 
-<h2 align="center" style="background: linear-gradient(120deg, #8b5cf6, #ec4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📌 Tentang Saya</h2>
+Kumpulan tools sederhana untuk membantu pekerjaan development sehari-hari.
 
-<div align="center" style="background: linear-gradient(135deg, rgba(139,92,246,0.05), rgba(99,102,241,0.05)); border: 2px solid rgba(139,92,246,0.2); border-radius: 20px; padding: 25px; max-width: 700px; margin: 0 auto;">
-  <table>
-    <tr>
-      <td align="left" style="padding: 15px;">
-        <ul style="font-size: 16px; line-height: 2.3; list-style: none; padding-left: 0;">
-          <li>👋 Halo! Saya <b style="color: #8b5cf6;">Oji Saputra</b>, seorang <b>API Developer</b></li>
-          <li>🔧 Developer di <a href="https://api.cmnty.eu.cc"><b style="color: #6366f1;">api.cmnty.eu.cc</b></a></li>
-          <li>⚡ Spesialis <b>RESTful API</b> & <b>Backend Systems</b></li>
-          <li>🛠️ Membangun <b>scalable API services</b> untuk komunitas</li>
-          <li>📚 Berpengalaman dalam <b>API Design & Documentation</b></li>
-          <li>🔐 Fokus pada <b>Security & Performance Optimization</b></li>
-          <li>🌐 Mengelola <b>API infrastructure</b> untuk api.cmnty.eu.cc</li>
-          <li>💬 Tanya tentang <b>API Development, Backend, atau System Design</b></li>
-          <li>📫 Hubungi: <b>cmnty.bot@gmail.com</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+**✨ Features**
 
-<br/>
+- 🧰 Utility tools
+- 🔌 API tools
+- ⚙️ Automation
+- 👨‍💻 Developer utilities
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored Divider"/>
-</div>
+**🛠️ Stack**
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-00C9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-<h2 align="center" style="background: linear-gradient(120deg, #f97316, #f59e0b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📊 Tingkat Keahlian</h2>
+<p align="center">
+  <a href="https://YOUR-TOOLS-DEMO.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="https://github.com/Creatorsitee/YOUR-TOOLS-REPO">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" style="padding: 10px;">
-        <b>⚡ API Development</b>
-        <br/>
-        <img src="https://progress-bar.dev/95/?title=Node.js&width=250&color=8b5cf6&bg_color=1a1b27"/>
-        <br/>
-        <img src="https://progress-bar.dev/90/?title=Express.js&width=250&color=6366f1&bg_color=1a1b27"/>
-        <br/>
-        <img src="https://progress-bar.dev/88/?title=REST%20API&width=250&color=3b82f6&bg_color=1a1b27"/>
-      </td>
-      <td align="left" style="padding: 10px;">
-        <b>🗄️ Database</b>
-        <br/>
-        <img src="https://progress-bar.dev/85/?title=MongoDB&width=250&color=10b981&bg_color=1a1b27"/>
-        <br/>
-        <img src="https://progress-bar.dev/82/?title=PostgreSQL&width=250&color=06b6d4&bg_color=1a1b27"/>
-        <br/>
-        <img src="https://progress-bar.dev/80/?title=Redis&width=250&color=ef4444&bg_color=1a1b27"/>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br/>
+## 🌐 Web Projects
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16ac2c.gif" width="100" />
+</p>
 
-<br/>
+Berbagai eksperimen dan project website dengan fokus pada UI yang clean dan responsive.
 
-<h2 align="center" style="background: linear-gradient(120deg, #ec4899, #f43f5e); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🚀 Proyek Utama</h2>
+**✨ Features**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="500" style="background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(99,102,241,0.1)); border: 2px solid rgba(139,92,246,0.3); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(139,92,246,0.2);">
-        <h3>🌐 API api.cmnty.eu.cc</h3>
-        <p>
-          <b>RESTful API Service</b> untuk komunitas
-          <br/>
-          Menyediakan endpoints yang powerful, scalable, dan secure
-        </p>
-        <a href="https://api.cmnty.eu.cc">
-          <img src="https://img.shields.io/badge/Live_API-api.cmnty.eu.cc-8B5CF6?style=for-the-badge&logo=swagger&logoColor=white&labelColor=6366F1" alt="Live API"/>
-        </a>
-        <br/><br/>
-        <a href="https://api.cmnty.eu.cc/docs">
-          <img src="https://img.shields.io/badge/Documentation-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3B82F6" alt="Docs"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/Creatorsitee">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Source"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- 📱 Responsive design
+- 🎨 Modern UI
+- ⚡ Fast loading
+- 📱 Mobile friendly
 
-<br/>
+**🛠️ Stack**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored Divider"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://YOUR-WEB-PROJECT-DEMO.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Creatorsitee/YOUR-WEB-PROJECT-REPO">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<h2 align="center" style="background: linear-gradient(120deg, #06b6d4, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🛠️ Teknologi & Alat</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
 
-<div align="center">
-  
-  <details open>
-    <summary><b>⚡ API & Backend Development</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST_API-8B5CF6?style=for-the-badge&logo=swagger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  </details>
+---
 
-  <details open>
-    <summary><b>💻 Bahasa Pemrograman</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  </details>
+# 📌 Project Showcase
 
-  <details open>
-    <summary><b>🗄️ Database & Caching</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  </details>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="120" />
+</p>
 
-  <details>
-    <summary><b>☁️ Deployment & DevOps</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
-  </details>
+<p align="center">
 
-  <details>
-    <summary><b>🔧 Tools & Monitoring</b></summary>
-    <br/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  </details>
-</div>
+<a href="https://github.com/Creatorsitee?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_Explore_All_Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</div>
+> More projects are continuously being built and improved.
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
 
-<h2 align="center" style="background: linear-gradient(120deg, #8b5cf6, #6366f1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📊 Statistik GitHub</h2>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creatorsitee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatorsitee&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
+# 📊 GitHub Statistics
 
-<div align="center" style="padding: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creatorsitee&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=6B7280" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Creatorsitee">
+    <img src="https://github-readme-stats.vercel.app/api?username=Creatorsitee&show_icons=true&hide_border=true&theme=radical&title_color=6C63FF&text_color=ffffff&icon_color=FF69B4&rank_icon=github&bg_color=0D1117" height="180" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored Divider"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Creatorsitee">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatorsitee&layout=compact&hide_border=true&theme=radical&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" height="180" />
+  </a>
+</p>
 
-<br/>
+---
 
-<h2 align="center" style="background: linear-gradient(120deg, #10b981, #06b6d4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📈 Grafik Aktivitas</h2>
+# 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creatorsitee&theme=github-dark&bg_color=0D1117&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Creatorsitee&theme=radical&hide_border=true&ring=6C63FF&fire=FF69B4&currStreakLabel=6C63FF&sideLabels=6C63FF&background=0D1117" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</div>
+---
 
-<br/>
+# 📈 Contribution Activity
 
-<h2 align="center" style="background: linear-gradient(120deg, #f59e0b, #f97316); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🌟 Kontribusi Open Source</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creatorsitee&bg_color=0D1117&color=6C63FF&line=FF69B4&point=FFD700&area=true&hide_border=true" width="100%" />
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/Total%20Commits-500%2B-8b5cf6?style=for-the-badge" alt="Commits"/>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Projects-6366f1?style=for-the-badge" alt="Open Source"/>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/API%20Endpoints-20%2B-3b82f6?style=for-the-badge" alt="API Endpoints"/>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/Community-Members-100%2B-10b981?style=for-the-badge" alt="Community"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,12,18,24&height=180&section=footer&text=API%20Developer%20-%20api.cmnty.eu.cc&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Thanks%20for%20Visiting!%20%F0%9F%91%8B&descAlignY=85&descAlign=60&descSize=15" width="100%" alt="Footer"/>
-</div>
+# 🧭 Currently Working On
 
-<div align="center">
-  <sub>Made with ❤️ by <b style="color: #8b5cf6;">Oji Saputra</b> | Developer of <a href="https://api.cmnty.eu.cc"><b>api.cmnty.eu.cc</b></a></sub>
-  <br/>
-  <sub>Last Updated: 2026</sub>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-4691-4516-8978-5f2a3c19c8a1.gif" width="400" />
+</p>
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│  🔌 API Development       Building useful APIs           │
+│                                                          │
+│  🌐 Web Development        Creating modern websites      │
+│                                                          │
+│  ☁️ Infrastructure         Exploring hosting & cloud     │
+│                                                          │
+│  ⚙️ Automation             Making workflows simpler      │
+│                                                          │
+│  🛠️ Developer Tools       Building useful utilities     │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🔭 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Architecture-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-00C9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS_Automation-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-9B59B6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+---
+
+# 🧠 Development Philosophy
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120" />
+</p>
+
+Saya percaya software yang bagus tidak harus rumit.
+
+> **Keep it simple.**
+> **Write clean code.**
+> **Solve real problems.**
+> **Keep learning.**
+
+Prioritas saya:
+
+```text
+01  →  Simplicity
+02  →  Performance
+03  →  Maintainability
+04  →  User Experience
+05  →  Continuous Learning
+```
+
+---
+
+# 🎯 Goals
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4af6-8edd-a8c5c8b3e8b8.gif" width="400" />
+</p>
+
+- 🚀 Membuat lebih banyak open-source projects
+- 🛠️ Membangun tools yang benar-benar berguna
+- 🏗️ Mengembangkan project dengan architecture yang lebih baik
+- 📚 Belajar teknologi baru secara konsisten
+- 🤝 Berkontribusi pada developer community
+
+---
+
+# 📚 Learning Journey
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+</p>
+
+```text
+Web Development
+       ↓
+Backend Development
+       ↓
+API & System Integration
+       ↓
+Cloud & Infrastructure
+       ↓
+Automation & DevOps
+       ↓
+Building Better Products
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+---
+
+# 🌐 Website
+
+<p align="center">
+  <a href="https://cmnty.web.id">
+    <img src="https://img.shields.io/badge/🌐_Website-cmnty.web.id-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Visit my website to see more projects and updates.</sub>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Creatorsitee">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://cmnty.web.id">
+  <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <sub>For collaboration, project discussions, or open-source contributions, feel free to reach out.</sub>
+</p>
+
+---
+
+# 🤝 Open Source
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</p>
+
+Saya terbuka untuk kolaborasi dan kontribusi pada project yang bermanfaat.
+
+Jika menemukan project yang menurutmu berguna:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Give_it_a_star-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐛_Report_bugs-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Share_ideas-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔧_Submit_improvements-00C9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Contribute-4ECDC4?style=for-the-badge" />
+</p>
+
+Every contribution is appreciated.
+
+---
+
+# 💬 Developer Note
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300" />
+</p>
+
+```text
+"Great things start with a simple idea."
+
+Keep building.
+Keep experimenting.
+Keep improving.
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
+</p>
+
+<p align="center">
+  <strong>Creatorsitee</strong>
+  <br>
+  <sub>Developer • Builder • Creator</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Made_with-❤️-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered_by-Code-6C63FF?style=for-the-badge" />
+  <br><br>
+  <sub>© 2026 Creatorsitee — Built with curiosity and code.</sub>
+</p>
